@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./05_Hangman",
+        "./05_Hangman",
+        "./05_Hangman",
+        "./05_Hangman"
+    ]
+}
